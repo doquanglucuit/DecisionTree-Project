@@ -1,0 +1,16 @@
+id,Age,Gender,Education,Employment,Income,Marital Status,Owns House,Buys Car
+1,<=30,Male,University,Part-time,Medium,Single,Yes,Yes
+2,31-40,Female,High School,Full-time,Low,Married,Yes,No
+3,>40,Female,University,Full-time,High,Married,Yes,Yes
+4,<=30,Female,High School,Part-time,Medium,Single,No,No
+5,>40,Male,University,Self-employed,Medium,Married,Yes,Yes
+6,31-40,Male,University,Full-time,High,Married,Yes,Yes
+7,<=30,Female,High School,Part-time,Low,Single,Yes,No
+8,31-40,Male,University,Full-time,High,Married,Yes,Yes
+9,<=30,Male,High School,Part-time,Medium,Single,Yes,No
+10,>40,Female,High School,Self-employed,High,Married,Yes,Yes
+11,<=30,Female,University,Full-time,High,Single,Yes,Yes
+12,<=30,Male,High School,Part-time,Medium,Single,Yes,No
+13,31-40,Female,University,Full-time,High,Married,Yes,Yes
+14,>40,Male,University,Self-employed,High,Married,Yes,Yes
+15,<=30,Female,High School,Part-time,Low,Single,No,No

@@ -1,0 +1,76 @@
+id,Age,Gender,Education,Employment,Income,Marital Status,Owns House,Buys Car
+1,<=30,Male,High School,Part-time,Low,Single,No,No
+2,<=30,Female,University,Full-time,High,Married,Yes,Yes
+3,31-40,Male,University,Full-time,High,Single,Yes,Yes
+4,>40,Female,High School,Self-employed,Medium,Married,Yes,Yes
+5,>40,Male,University,Full-time,High,Married,Yes,Yes
+6,<=30,Female,High School,Part-time,Low,Single,No,No
+7,<=30,Male,University,Full-time,Medium,Single,Yes,Yes
+8,31-40,Female,University,Full-time,High,Married,Yes,Yes
+9,>40,Male,University,Self-employed,High,Married,Yes,Yes
+10,>40,Female,High School,Full-time,Low,Married,No,No
+11,<=30,Male,High School,Part-time,Medium,Single,Yes,No
+12,<=30,Female,University,Full-time,High,Single,Yes,Yes
+13,31-40,Male,University,Full-time,High,Married,Yes,Yes
+14,>40,Female,High School,Self-employed,Medium,Married,Yes,Yes
+15,>40,Male,University,Full-time,High,Married,Yes,Yes
+16,<=30,Female,High School,Part-time,Low,Single,No,No
+17,<=30,Male,University,Full-time,Medium,Single,Yes,Yes
+18,31-40,Female,University,Full-time,High,Married,Yes,Yes
+19,>40,Male,University,Self-employed,High,Married,Yes,Yes
+20,>40,Female,High School,Full-time,Low,Married,No,No
+21,<=30,Male,High School,Part-time,Medium,Single,Yes,No
+22,<=30,Female,University,Full-time,High,Single,Yes,Yes
+23,31-40,Male,University,Full-time,High,Married,Yes,Yes
+24,>40,Female,High School,Self-employed,Medium,Married,Yes,Yes
+25,>40,Male,University,Full-time,High,Married,Yes,Yes
+26,<=30,Female,High School,Part-time,Low,Single,No,No
+27,<=30,Male,University,Full-time,Medium,Single,Yes,Yes
+28,31-40,Female,University,Full-time,High,Married,Yes,Yes
+29,>40,Male,University,Self-employed,High,Married,Yes,Yes
+30,>40,Female,High School,Full-time,Low,Married,No,No
+31,<=30,Male,High School,Part-time,Medium,Single,Yes,No
+32,<=30,Female,University,Full-time,High,Single,Yes,Yes
+33,31-40,Male,University,Full-time,High,Married,Yes,Yes
+34,>40,Female,High School,Self-employed,Medium,Married,Yes,Yes
+35,>40,Male,University,Full-time,High,Married,Yes,Yes
+36,<=30,Female,High School,Part-time,Low,Single,No,No
+37,<=30,Male,University,Full-time,Medium,Single,Yes,Yes
+38,31-40,Female,University,Full-time,High,Married,Yes,Yes
+39,>40,Male,University,Self-employed,High,Married,Yes,Yes
+40,>40,Female,High School,Full-time,Low,Married,No,No
+41,<=30,Male,High School,Part-time,Medium,Single,Yes,No
+42,<=30,Female,University,Full-time,High,Single,Yes,Yes
+43,31-40,Male,University,Full-time,High,Married,Yes,Yes
+44,>40,Female,High School,Self-employed,Medium,Married,Yes,Yes
+45,>40,Male,University,Full-time,High,Married,Yes,Yes
+46,<=30,Female,High School,Part-time,Low,Single,No,No
+47,<=30,Male,University,Full-time,Medium,Single,Yes,Yes
+48,31-40,Female,University,Full-time,High,Married,Yes,Yes
+49,>40,Male,University,Self-employed,High,Married,Yes,Yes
+50,>40,Female,High School,Full-time,Low,Married,No,No
+51,<=30,Male,High School,Part-time,Medium,Single,Yes,No
+52,<=30,Female,University,Full-time,High,Single,Yes,Yes
+53,31-40,Male,University,Full-time,High,Married,Yes,Yes
+54,>40,Female,High School,Self-employed,Medium,Married,Yes,Yes
+55,>40,Male,University,Full-time,High,Married,Yes,Yes
+56,<=30,Female,High School,Part-time,Low,Single,No,No
+57,<=30,Male,University,Full-time,Medium,Single,Yes,Yes
+58,31-40,Female,University,Full-time,High,Married,Yes,Yes
+59,>40,Male,University,Self-employed,High,Married,Yes,Yes
+60,>40,Female,High School,Full-time,Low,Married,No,No
+61,<=30,Male,High School,Part-time,Medium,Single,Yes,No
+62,<=30,Female,University,Full-time,High,Single,Yes,Yes
+63,31-40,Male,University,Full-time,High,Married,Yes,Yes
+64,>40,Female,High School,Self-employed,Medium,Married,Yes,Yes
+65,>40,Male,University,Full-time,High,Married,Yes,Yes
+66,<=30,Female,High School,Part-time,Low,Single,No,No
+67,<=30,Male,University,Full-time,Medium,Single,Yes,Yes
+68,31-40,Female,University,Full-time,High,Married,Yes,Yes
+69,>40,Male,University,Self-employed,High,Married,Yes,Yes
+70,>40,Female,High School,Full-time,Low,Married,No,No
+71,31-40,Male,University,Full-time,High,Married,Yes,Yes
+72,<=30,Male,High School,Part-time,Medium,Single,Yes,No
+73,>40,Female,High School,Self-employed,High,Married,Yes,Yes
+74,<=30,Female,University,Full-time,High,Single,Yes,Yes
+75,<=30,Male,High School,Part-time,Medium,Single,Yes,No
