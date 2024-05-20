@@ -156,7 +156,7 @@ if __name__ == "__main__":
     y = df.iloc[:, -1]
     tree = DecisionTreeID3(max_depth = 10, min_samples_split = 2)
 
-    pf = pd.read_csv('buy_predict.csv', index_col = 0, parse_dates = True)
+    pf = pd.read_csv('buy-predict.csv', index_col = 0, parse_dates = True)
     X_predict = pf.iloc[:, :-1]
     y_answer = pf.iloc[:, -1].to_list()
     tree.fit(X, y)
