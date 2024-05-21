@@ -91,8 +91,6 @@ class DecisionTreeID3(object):
 
     def _set_label(self, node):
         """
-        Find label for a node if it is a leaf
-        Chose by major voting
         Gán nhãn cho nút nếu nó là nút lá
         Chọn nhãn có nhiều nhất trong nút đó
         """ 
@@ -101,7 +99,7 @@ class DecisionTreeID3(object):
     
     def _split(self, node):
         """
-        Tách node thành các node con
+        Tách nút thành các nút con
         """
         ids = node.ids 
         best_gain = 0
@@ -136,7 +134,7 @@ class DecisionTreeID3(object):
     def predict(self, new_data):
         """
         new_data: tập dữ liệu mới, mỗi hàng là một điểm dữ liệu
-        return: dự đoán nhãn cho mỗi điểm dữ liệu
+        return: trả về dự đoán nhãn cho mỗi điểm dữ liệu
         """
         npoints = new_data.count()[0]
         labels = [None]*npoints
